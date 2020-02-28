@@ -1,0 +1,22 @@
+{
+  "name": "googlebookssearch",
+  "version": "1.0.0",
+  "description": "This is a full stack application using ReactJs, MongoDB, and a node-express server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niviamanjee/GoogleBooksSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niviamanjee/GoogleBooksSearch/issues"
+  },
+  "homepage": "https://github.com/niviamanjee/GoogleBooksSearch#readme",
+  "dependencies": {
+    "react-router-dom": "^5.1.2"
+  }
+}
