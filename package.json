@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/niviamanjee/GoogleBooksSearch#readme",
   "dependencies": {
-    "react-router-dom": "^5.1.2"
+    "react-router-dom": "^6.26.2"
   }
 }
